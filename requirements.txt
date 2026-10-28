@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+scikit-learn
+numpy
+pandas
+joblib
+pytest
+httpx
+evidently==0.4.40
